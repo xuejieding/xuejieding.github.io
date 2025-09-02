@@ -642,3 +642,8 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+exclude:
+  - _pages/blog.md
+  - _posts/
