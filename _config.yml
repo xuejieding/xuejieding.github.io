@@ -647,3 +647,4 @@ jsonresume:
 exclude:
   - _pages/blog.md
   - _posts/
+  - _pages/repositories.md
